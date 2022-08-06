@@ -5,6 +5,7 @@
 |   1   | [Expense Tracker](https://github.com/devvanu/react-expense-tracker) | [Demo](https://rt-expense-tracker.netlify.app) |
 |   2   | [Notes App](https://github.com/devvanu/react-notes-app) | [Demo](https://rt-notes-app.netlify.app) |
 |   3   | [Goal Tracker](https://github.com/devvanu/react-goal-tracker) | [Demo](https://rt-goal-tracker.netlify.app) |
+|   4   | [Interactive Rating Component](https://github.com/devvanu/interactive-rating-component) | [Demo](https://fm-rating-page.netlify.app) |
 
 ## References :
 <!--
